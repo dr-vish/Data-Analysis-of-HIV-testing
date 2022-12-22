@@ -1,4 +1,4 @@
-# Data-Analysis-of-HIV-testing
+# Data Analysis of HIV testing
 
 Exploring the dataset and conducting proper analysis of HIV testing dataset done in Afghanistan. 
 
